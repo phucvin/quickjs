@@ -39,7 +39,7 @@ sys     0m0.021s
 ```
 
 
-Compare with JavaScriptCore (JSC, to build: https://constellation.slowstart.org/blog/2016/05/02/how-to-build-javascriptcore-on-your-machine/):
+Compare with JavaScriptCore (JSC, to build: https://zon8.re/posts/jsc-internals-part1-tracing-js-source-to-bytecode/):
 ```
 TODO
 ```
@@ -64,3 +64,6 @@ real    0m1.082s
 user    0m1.035s
 sys     0m0.009s
 ```
+
+See also:
+- https://gist.github.com/Huxpro/f16b0a51e06e463a7d31d452b3da90e8
